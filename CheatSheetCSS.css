@@ -1,0 +1,53 @@
+h1 {
+        display: block;
+        font-size: 2em;
+        margin-block-start: 0.67em;
+        margin-block-end: 0.67em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+        text-align:center;
+    }
+
+    h2 {
+        display: block;
+        font-size: 1.5em;
+        margin-block-start: 0.83em;
+        margin-block-end: 0.83em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+        color: rebeccapurple;
+        text-align: center;
+    }
+
+    p {
+        font-size:1.5em;
+        text-align:center;
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+        background-color: gainsboro;
+    }
+
+    table {
+        border: 2px solid darkorchid;
+        width: 650px;
+        margin: 0 auto;
+    }
+    
+    thead {
+        background-color: plum;
+    }
+
+
+    td {
+        border-top: 1px solid darkorchid;
+    }
+
+    tr {
+        display: table-row;
+        vertical-align: inherit;
+        border-color: inherit;
+    }
